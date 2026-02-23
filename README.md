@@ -1,6 +1,7 @@
 # Kenadian_Zombies
 Do you want to make Minecraft Zombies look like Kenadian? No?<br>
 <img src="demo.png" width='600' alt='Two Minecraft zombies with the skin of Minecraft YouTuber Kenadian.'><br>
+Disclaimer: I am not affiliated with Kenadian, and did not obtain their permission.
 
 Kenadian skin, [audio clip](https://youtu.be/4gCc--BGW30?t=115), etc copyright Kenadian.<br>
 Code based on [https://modrinth.com/resourcepack/zombie-creeper](https://modrinth.com/resourcepack/zombie-creeper) by piramiduss.<br>
