@@ -1,0 +1,9 @@
+{
+  "entity.zombie.death": {
+    "sounds": [
+      "mob/zombie/death"
+    ],
+    "subtitle": "entity.zombie.death",
+    "replace": "true"
+  }
+}
