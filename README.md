@@ -11,7 +11,7 @@ All original work, such as the subtitle modification, is copyleft 2026.<br>
 ### What does this resource pack do?
 - All zombies use the Kenadian skin
 
-Even since Mojang updated the baby zombie texture, baby zombies do not use the Ken skin.<br>
+Even since Mojang updated the baby zombie texture, baby zombies do not use the Ken skin. Baby zombies still play the sound bite and subtitle.<br>
 Other zombies (Husks, Drowned, etc) do not use the Ken skin.
 - Dying zombies play the sound bite "I'm sorry Kenadian"
 
