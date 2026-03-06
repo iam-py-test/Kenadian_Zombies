@@ -1,5 +1,5 @@
-# Kenadian_Zombies
-Do you want to make Minecraft Zombies look like Kenadian? No?<br>
+# Kenadian Zombies
+Do you want to make Minecraft Zombies look like the YouTuber Kenadian? No?<br>
 <img src="Ken jockey.png" width='600' alt='A Minecraft zombie wearing a leather chestplate and helmet, with the skin of Minecraft YouTuber Kenadian riding a zombie horse. In the background is a village defended by 117 Iron Golems, a building made of polished blackstone, and a trans pride flag.'><br>
 
 Disclaimer: I am not affiliated with Kenadian, and did not obtain their permission.<br>
